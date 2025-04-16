@@ -1,0 +1,2 @@
+Arrays is used to store multiple items/collection of several elements.
+Arrays stores values based on index.The index always starts with zero

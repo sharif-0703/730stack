@@ -1,0 +1,22 @@
+primitive data types:
+primitive data types always refers to values.
+popular primitive data types are:
+a.number
+  In Js any numerical value be number only.To get different operations on number we use Math functions
+b.string
+  In Js  " " and '' are similar based on situation we use single/double quotations
+  Backticks(``) are template literals introduced at the time of ES6 used to print the values without breaking the execution flow
+   String have some default methods like:
+    trim(),length.toUpperCase(),toLowerCase(),split(''),startswith(),endswith(),replace(),replaceAll(),charAt(),slice(),indexOf(),lastIndexOf()
+    In js strings are immutable
+c.boolean
+   Boolean is used to represent true/false,here true reprsents 1 and false reprsents 0
+d.undefined
+    Undefined is known as accidental absence of value
+e.null
+   Null is known as complete absence of value
+
+   What is the difference between primitive and non primitive data types?
+      Primitive data types cares about the values.Non primitive data types cares about the references(addresses)
+
+       Primitive date types are immutable and non-primitive data types are mutable

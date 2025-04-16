@@ -1,0 +1,22 @@
+GIT:
+  Git is a distributed version control system.We need to download and install it.It is powered by Oracle.
+  Step1:GO to https://git-scm.com/download/win
+  Step2: Download 32/64 setup and install
+  Step3: By installing make sure vs code as a default editor
+  Step4:Click next until it is install
+  step5:Verify by going CMD "git -v"
+
+  GITHUB:
+    Github is a online repository system used to deploy/maintain/share code in the internet
+
+    Go to github and create a repository
+
+    In vs code goto terminal---> New Terminal
+
+    git init 
+    git add .
+    git commit -m "message"
+    git remote add origin "link"
+    git push -u main/master
+
+    https://github.com/sharif-0703/730stack.git
