@@ -17,6 +17,6 @@ GIT:
     git add .
     git commit -m "message"
     git remote add origin "link"
-    git push -u main/master
+    git push -u origin main/master
 
     https://github.com/sharif-0703/730stack.git

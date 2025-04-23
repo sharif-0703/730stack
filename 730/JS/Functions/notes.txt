@@ -1,0 +1,13 @@
+Function is the first class citizen in JS.Js follows a modular programming.
+Functions are used to perform a specific task,it follows a keyword function
+
+//simple function
+
+function display(){
+    console.log("Hello Functions")  // function definition
+}
+display() //function call
+console.log(display) //function are treated as variables
+
+ //callback parameters-functions inside the parameter of another function
+  //Mad is passed as a parameter to Bad.So bad is called callback functions,bad is passsed as a parameter then bad is called higher order function
